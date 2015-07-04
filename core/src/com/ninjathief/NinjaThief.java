@@ -9,6 +9,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 public class NinjaThief extends ApplicationAdapter {
 	SpriteBatch batch;
 	Texture img;
+    Texture hi;
 	
 	@Override
 	public void create () {
